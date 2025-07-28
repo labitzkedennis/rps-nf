@@ -1,0 +1,43 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/.mvn
+/target
+.java-version
+**/.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+src/querydsl/
+
+out
+/order_handout.pdf
+/report.pdf
+/report_with_fees.pdf
+/report_without_fees.pdf
+/batch_order_handout.pdf
+/batch_order_cover_page.pdf
+
+# Claude Code context file
+CLAUDE.md
