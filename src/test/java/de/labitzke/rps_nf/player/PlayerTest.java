@@ -1,5 +1,6 @@
 package de.labitzke.rps_nf.player;
 
+import de.labitzke.rps_nf.game.Move;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
